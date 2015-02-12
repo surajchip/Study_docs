@@ -1,2 +1,2 @@
 # Study_docs
-Study material 
+Study material for reference
